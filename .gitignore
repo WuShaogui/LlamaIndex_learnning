@@ -1,3 +1,5 @@
 *.pyc
 .vscode/launch.json
 examples/api_key.py
+examples/2-query_engine/db/*
+examples/2-query_engine/三国演义白话文/*
